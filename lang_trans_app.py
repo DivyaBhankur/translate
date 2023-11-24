@@ -12,7 +12,7 @@ import json
 import requests
 import time
 
-st.title("Divya Bhankur's Language Translation Model")
+st.title("Divya Bhankur Language Translation Model")
 default_text = ''
 text_inp = st.text_input("InputText:", default_text)
 
